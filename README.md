@@ -2,4 +2,4 @@
 ## 1주차
 
 ## 2주차
-   - <img width="300" heigh="400" src="./png/2주차버튼누르기.PNG"></img>
+   <img width="250" heigh="250" src="./png/2주차버튼누르기.PNG"></img>
