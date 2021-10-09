@@ -13,4 +13,7 @@
 ## 5주차
    <img width="250" heigh="250" src="./png/5주차강.PNG"></img>
    <img width="250" heigh="250" src="./png/5주차고.PNG"></img>
+## 6주차
+   <img width="250" heigh="250" src="./png/6주차넓이.PNG"></img>
+   <img width="250" heigh="250" src="./png/6주차높이.PNG"></img>
    
